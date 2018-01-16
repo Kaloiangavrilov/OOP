@@ -1,0 +1,50 @@
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csprojResolveAssemblyReference.cache
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Form1.resources
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Properties.Resources.resources
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.GenerateResource.Cache
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.CoreCompileInputs.cache
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe.config
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.pdb
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\bin\Debug\System.IO.Compression.dll
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.exe
+D:\Paint Project\ProjectGraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.pdb
+D:\Projects\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe.config
+D:\Projects\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.exe
+D:\Projects\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.pdb
+D:\Projects\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe
+D:\Projects\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.pdb
+D:\Projects\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csprojResolveAssemblyReference.cache
+D:\Projects\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Form1.resources
+D:\Projects\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Properties.Resources.resources
+D:\Projects\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.GenerateResource.Cache
+D:\Projects\GraphicEditor\ProjectGraphicEditor\bin\Debug\Figures.dll
+D:\Projects\GraphicEditor\ProjectGraphicEditor\bin\Debug\Figures.pdb
+D:\Programs\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe.config
+D:\Programs\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe
+D:\Programs\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.pdb
+D:\Programs\GraphicEditor\ProjectGraphicEditor\bin\Debug\Figures.dll
+D:\Programs\GraphicEditor\ProjectGraphicEditor\bin\Debug\System.IO.Compression.dll
+D:\Programs\GraphicEditor\ProjectGraphicEditor\bin\Debug\Figures.pdb
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csprojResolveAssemblyReference.cache
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Form1.resources
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Properties.Resources.resources
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.GenerateResource.Cache
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.CoreCompileInputs.cache
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.exe
+D:\Programs\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.pdb
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csprojResolveAssemblyReference.cache
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Form1.resources
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.Properties.Resources.resources
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.GenerateResource.Cache
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.csproj.CoreCompileInputs.cache
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.exe
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\obj\Debug\ProjectGraphicEditor.pdb
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe.config
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.exe
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\ProjectGraphicEditor.pdb
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\GrapicsEditor.dll
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\LibGdiGraphicsEditor.dll
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\System.IO.Compression.dll
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\GrapicsEditor.pdb
+D:\Programs\new\GraphicEditor\ProjectGraphicEditor\bin\Debug\LibGdiGraphicsEditor.pdb

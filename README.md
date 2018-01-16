@@ -1,2 +1,1 @@
-# OOP
-University tasks
+# GraphicEditor
