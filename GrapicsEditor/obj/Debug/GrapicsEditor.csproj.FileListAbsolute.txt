@@ -1,0 +1,6 @@
+D:\Programs\GraphicEditor\GrapicsEditor\bin\Debug\GrapicsEditor.dll
+D:\Programs\GraphicEditor\GrapicsEditor\bin\Debug\GrapicsEditor.pdb
+D:\Programs\GraphicEditor\GrapicsEditor\obj\Debug\GrapicsEditor.csprojResolveAssemblyReference.cache
+D:\Programs\GraphicEditor\GrapicsEditor\obj\Debug\GrapicsEditor.csproj.CoreCompileInputs.cache
+D:\Programs\GraphicEditor\GrapicsEditor\obj\Debug\GrapicsEditor.dll
+D:\Programs\GraphicEditor\GrapicsEditor\obj\Debug\GrapicsEditor.pdb

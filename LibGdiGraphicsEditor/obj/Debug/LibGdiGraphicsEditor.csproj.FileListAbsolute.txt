@@ -1,0 +1,5 @@
+D:\Programs\GraphicEditor\LibGdiGraphicsEditor\bin\Debug\LibGdiGraphicsEditor.dll
+D:\Programs\GraphicEditor\LibGdiGraphicsEditor\bin\Debug\LibGdiGraphicsEditor.pdb
+D:\Programs\GraphicEditor\LibGdiGraphicsEditor\obj\Debug\LibGdiGraphicsEditor.csproj.CoreCompileInputs.cache
+D:\Programs\GraphicEditor\LibGdiGraphicsEditor\obj\Debug\LibGdiGraphicsEditor.dll
+D:\Programs\GraphicEditor\LibGdiGraphicsEditor\obj\Debug\LibGdiGraphicsEditor.pdb

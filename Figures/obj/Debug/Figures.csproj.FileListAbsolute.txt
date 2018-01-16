@@ -1,0 +1,11 @@
+D:\Projects\GraphicEditor\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+D:\Projects\GraphicEditor\Figures\bin\Debug\Figures.dll
+D:\Projects\GraphicEditor\Figures\bin\Debug\Figures.pdb
+D:\Projects\GraphicEditor\Figures\obj\Debug\Figures.dll
+D:\Projects\GraphicEditor\Figures\obj\Debug\Figures.pdb
+D:\Programs\GraphicEditor\Figures\bin\Debug\Figures.dll
+D:\Programs\GraphicEditor\Figures\bin\Debug\Figures.pdb
+D:\Programs\GraphicEditor\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+D:\Programs\GraphicEditor\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Programs\GraphicEditor\Figures\obj\Debug\Figures.dll
+D:\Programs\GraphicEditor\Figures\obj\Debug\Figures.pdb
